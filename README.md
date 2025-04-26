@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preston-Spain
-- 👀 I’m interested in computer Science
+- 👀 I’m interested in computer Science, and mechatronics 
 - 🌱 I’m currently learning Java, C#, Py
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
